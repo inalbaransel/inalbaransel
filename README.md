@@ -6,9 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Frontend+Developer;React+%7C+JavaScript+%7C+Firebase;Building+modern+web+experiences" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,git,github&theme=dark" />
-</p>
+
 
 <p align="center">
   <em>Turning ideas into clean, modern web products.</em>
@@ -23,7 +21,7 @@
 
 ## 🧩 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,git,github,GSAP,Python,C,C++,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,git,github,gsap,python,c,cpp,vscode&theme=dark" />
 </p>
 
 ## 🧠 Currently Working On
@@ -31,8 +29,7 @@
 - Firebase integrations  
 - UI/UX best practices  
 
-## 🌍 Vision
-Create scalable products, contribute to impactful projects, and grow globally as a software engineer.
+
 
 ---
 
