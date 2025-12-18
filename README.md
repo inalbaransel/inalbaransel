@@ -23,7 +23,7 @@
 
 ## 🧩 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,git,github,GSAP,Python,C,C++,vscode&theme=dark" />
 </p>
 
 ## 🧠 Currently Working On
@@ -37,9 +37,6 @@ Create scalable products, contribute to impactful projects, and grow globally as
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=inalbaransel&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=footer&text=Keep%20Building%20🚀&fontSize=24" />
-</p>
