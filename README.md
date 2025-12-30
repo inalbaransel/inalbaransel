@@ -21,7 +21,7 @@
 
 ## 🧩 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,git,github,gsap,python,c,cpp,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,firebase,git,github,python,c,cpp,vscode&theme=dark" />
 </p>
 
 ## 🧠 Currently Working On
