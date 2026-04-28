@@ -9,5 +9,5 @@
 </div>
 
 <p align="center">
-  🚀 <b>My focus:</b> Developing web applications by exploring the Full-Stack with Node.js and Next.js.
+  <b>My focus:</b> Developing web applications by exploring the Full-Stack with Node.js and Next.js.
 </p>
