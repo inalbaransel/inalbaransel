@@ -1,11 +1,11 @@
-<h2 align="center">Hi 👋, I'm Baransel</h2>
-<h3 align="center">Computer Engineering Student | Full-Stack Explorer</h3>
+<h2 align="center">Hi I'm Baransel</h2>
+<h3 align="center">Computer Engineering Student</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,nextjs,tailwind,nodejs,expressjs" height="40" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,nextjs,tailwind,swift" height="40" />
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,prisma,docker,aws,cloudflare,figma,git,postman" height="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,postgresql,prisma,docker,aws,cloudflare,figma,git,postman" height="40" />
 </div>
 
 <p align="center">
